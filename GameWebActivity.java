@@ -91,7 +91,7 @@ public class GameWebActivity extends BaseActivity {
         frameLayout.addView(mWebView);
         initWebView();
 
-        mWebView.loadUrl("http://192.168.3.31:8080/");
+        mWebView.loadUrl("http://101.132.193.149:5000/");
 
     }
 
