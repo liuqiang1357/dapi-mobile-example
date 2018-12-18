@@ -571,7 +571,10 @@ response:
 ===Provider code example===
 
 Android: [[GameWebActivity.java]]
+
 Ios:  [[DAppViewController.m]]
+
+DAPP: 
 
 ===Scenario Example===
 
