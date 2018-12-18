@@ -66,6 +66,9 @@ In Scenario 3: Provider open DApp. if DApp dont need user login:
 
 [[Image:images/login.png|login]]
 
+ontid login if ontid not registry:
+
+[[Image:images/login-use-ontid.png|login]]
 
 ====  Invoke Smart Contract ====
 
@@ -574,7 +577,7 @@ Android: [[GameWebActivity.java]]
 
 Ios:  [[DAppViewController.m]]
 
-DAPP: 
+DAPP:
 
 ===Scenario Example===
 

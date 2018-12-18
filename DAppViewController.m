@@ -1,6 +1,6 @@
 //
 //  DAppViewController.m
-//
+//  ONTO
 //
 //  Created by Apple on 2018/12/17.
 //  Copyright © 2018 Zeus. All rights reserved.
@@ -400,7 +400,7 @@
         if ([[obj valueForKey:@"error"] integerValue] == 0) {
             [self.sendConfirmV dismiss];
             NSDictionary * result = obj[@"result"];
-            NSDictionary *nParams = @{@"action":@"login",
+            NSDictionary *nParams = @{@"action":@"invoke",
                                       @"version": @"v1.0.0",
                                       @"error": @0,
                                       @"desc": @"SUCCESS",
