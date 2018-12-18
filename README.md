@@ -3,7 +3,7 @@
 
 移动端dAPI规范文档包括唤醒、扫码、钱包内打开H5 DApp三种场景。详细请看[dAPI for Mobile Specification](dAPI-for-Mobile.mediawiki)
 
-钱包中打开DApp案例接口：
+钱包中打开DApp案例演示：
 
 1. Open DApp in Provider
 2. Get account or get identity
