@@ -13,29 +13,39 @@
 
 
 
-### open dapp
+### Provider open DApp
+
+钱包中打开DApp：
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/01-open-dapp.jpg"  width="300">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/01-open-dapp.jpg" height="400" width="200">
 </div>
 
-### get account or get identity
+### Get account or get identity
+
+DApp查询账号或身份信息：
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/02-getAccount.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/02-getAccount.jpg" height="400" width="200">
 </div>
 
-### login
+### Login DApp
+
+DApp登录: DApp发消息到给钱包签名，DApp验证签名。
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/03-login-message.jpg"  width="300">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/input-password.jpg" width="300">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/04-logined.jpg"  width="300">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/03-login-message.jpg" height="400" width="200">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/input-password.jpg" height="400" width="200">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/04-logined.jpg" height="400" width="200">
 </div>
 
-### invoke smart contract
+### DApp Invoke smart contract
+
+DApp调用合约
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/05-invoke-message.jpg" width="300">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/input-password.jpg" width="300">
-  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/05-pre-exec-result.jpg" width="300">
-   <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/06-dapp-recv-txhash.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/05-invoke-message.jpg" height="400" width="200">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/input-password.jpg" height="400" width="200">
+  <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/05-pre-exec-result.jpg" height="400" width="200">
+   <img src="https://raw.githubusercontent.com/ontio-community/dapi-mobile-example/master/images/ios/06-dapp-recv-txhash.jpg" height="400" width="200">
 </div>
