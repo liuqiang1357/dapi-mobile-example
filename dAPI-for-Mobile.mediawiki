@@ -350,18 +350,20 @@ response:
 {
 	"action": "invoke",
 	"version": "v1.0.0",
-    "params": {
-    "invokeConfig": {
+	"params": {
+		"invokeConfig": {
 			"contractHash": "0300000000000000000000000000000000000000",
 			"functions": [{
 				"operation": "regIDWithPublicKey",
 				"args": [{
-					"name": "arg0-ontid",
-					"value": "String:did:ont:AUr5QUfeBADq6BMY6Tp5yuMsUNGpsD7nLZ"]
-				}, {
-					"name": "arg1-publickey",
-					"value": "ByteArray:03f631f975560afc7bf47902064838826ec67794ddcdbcc6f0a9c7b91fc8502583"
-				}]
+						"name": "arg0-ontid",
+						"value": "String:did:ont:AUr5QUfeBADq6BMY6Tp5yuMsUNGpsD7nLZ"
+					},
+					{
+						"name": "arg1-publickey",
+						"value": "ByteArray:03f631f975560afc7bf47902064838826ec67794ddcdbcc6f0a9c7b91fc8502583"
+					}
+				]
 			}],
 			"payer": "AUr5QUfeBADq6BMY6Tp5yuMsUNGpsD7nLZ",
 			"gasLimit": 20000,
