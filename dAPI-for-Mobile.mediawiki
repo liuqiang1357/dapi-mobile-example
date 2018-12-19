@@ -565,7 +565,7 @@ Android: [[GameWebActivity.java]]
 
 Ios:  [[DAppViewController.m]]
 
-DAPP:
+DAPP: [[https://github.com/ontology-cyano/mobile-dapp-demo]]
 
 ===Scenario Example===
 
