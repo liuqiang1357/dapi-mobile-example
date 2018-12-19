@@ -220,7 +220,7 @@ if user has logined. only method and parameters, dont need signature, Provider h
 	"version": "v1.0.0",
 	"params": {
 		"login": true,
-		"qrcodeUrl": "http://127.0.0.1:80/rawtransaction/txhash",
+		"qrcodeUrl": "http://101.132.193.149:4027/qrcode/AUr5QUfeBADq6BMY6Tp5yuMsUNGpsD7nLZ",
 		"message": "will pay 1 ONT in this transaction",
 		"invokeConfig": {
 			"autosign": true,
