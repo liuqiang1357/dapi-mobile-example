@@ -3,7 +3,7 @@
 
 移动端dAPI规范文档包括唤醒、扫码、钱包中打开H5 DApp三种场景。详细请看[dAPI for Mobile Specification](dAPI-for-Mobile.mediawiki)
 
-移动版Cyano钱包集成provider功能目前还没开发完成，完成后分别会提交到*-provider文件夹。
+移动版Cyano钱包集成provider功能目前还没开发完成，链接地址[cyano-android](https://github.com/ontology-cyano/cyano-android),[cyano-ios](https://github.com/ontology-cyano/cyano-ios)。
 
 ## 钱包中打开H5 DApp场景
 

@@ -1,4 +1,0 @@
-# dapi-mobile-provider-demo
-
-
-
